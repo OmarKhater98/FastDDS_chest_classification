@@ -1,7 +1,7 @@
 # FastDDS-Based Middleware System for Remote X-Ray Image Classification Using Raspberry Pi
 ## Authors:
-Omar H. Khater
-Basem Almadani
+Omar H. Khater, 
+Basem Almadani, 
 Farouq Aliyu (Senior Member, IEEE)
 
 ## Overview
