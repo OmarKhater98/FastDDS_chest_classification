@@ -2,7 +2,7 @@
 
 ### Authors:
 - **Omar H. Khater**
-- **Basem Almadani**
+- **Basem Almadani** (Associate Professor in Computer Engineering, KFUPM)
 - **Farouq Aliyu** (Senior Member, IEEE)
 
 ## Overview
