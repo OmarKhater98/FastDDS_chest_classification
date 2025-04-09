@@ -7,7 +7,8 @@
 
 ## Overview
 
-This repository contains the documentation for the FastDDS-based middleware system designed for real-time remote X-ray image classification on a Raspberry Pi.
+This repository contains the link for the FastDDS-based middleware system designed for real-time remote X-ray image classification on a Raspberry Pi.
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RRmnVvcAAAAJ&citation_for_view=RRmnVvcAAAAJ:yB1At4FlUx8C
 
 ## Code Availability
 
